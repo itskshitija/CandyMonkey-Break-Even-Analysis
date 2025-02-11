@@ -1,6 +1,8 @@
 # 🍫CandyMonkey Case Study: Break-Even Analysis
 <img src="https://github.com/user-attachments/assets/4430a3b1-7c3e-4c2f-aaa5-a0f2d04e40dd" alt="CandyMonkey Logo" width="200"/>
 
+# For the comprehensive understanding and formulas used in the project, please refer to the [Google Sheet](https://docs.google.com/spreadsheets/d/1PmnfhwZM7ELkLxKtprzqlg82TVlBi_PB0n1nEbqvkF0/edit?usp=sharing)
+
 ## 📌Introduction
 CandyMonkey, a local confectionery brand in Raipur, is launching a new chocolate product called the Mini Pack. This chocolate is expected to appeal to both children and families seeking delightful chocolate treats. The company has conducted a market study and has generated reliable sales forecasts. They have already developed samples and know the proportion of different raw materials that will be used. You have been provided with the following information by the company and have been asked to conduct a break-even analysis for CandyMonkey’s new product. This involves estimating the sales required to cover all costs, taking into account sales forecasts, variable costs, and fixed costs. They plan to launch this product on January 1st, 2024.
 
