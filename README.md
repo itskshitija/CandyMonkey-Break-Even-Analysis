@@ -185,5 +185,5 @@ The primary driver of achieving the break-even point here is the incremental inc
 ![image](https://github.com/user-attachments/assets/ab18798e-d7f5-41a3-8176-082ab034be01)
 
 ## 🔚Insights
-- **Sales:** Sales and increasing from 4th month onwards which is resulting in increased total contribution per month from the newly launched product Mini Pack.
-- **Break-Even  Point:**  Company will be able to achieve the break-even point in the month of September and then profits will continue to rise till the month of December as per data provided for forcast.
+- **Sales:** Sales are increasing from the 4th month onwards which is resulting in increased total contribution per month from the newly launched product Mini Pack.
+- **Break-Even Point:** The  Company will be able to achieve the break-even point in September and then profits will continue to rise till December as per data provided for forecast.
