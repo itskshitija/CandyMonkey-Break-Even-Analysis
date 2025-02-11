@@ -153,6 +153,37 @@ Contribution = Sales - Variable Cost
 ## Break-Even Analysis
 Break-Even Analysis is a financial calculation used to determine the point at which total revenue equals total costs (both fixed and variable), resulting in neither profit nor loss. This point is known as the break-even point (BEP). It helps businesses understand how many units of a product or service they need to sell to cover their costs.
 
+### Financial Performance Table (Amount in Rs)
 
+| **Description**           | **Jan**  | **Feb**  | **Mar**  | **Apr**  | **May**  | **Jun**  | **Jul**  | **Aug**  | **Sep**  | **Oct**  | **Nov**  | **Dec**  |
+|----------------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| **Contribution**          | 104,325  | 104,325  | 104,325  | 114,758  | 126,233  | 138,913  | 152,876  | 168,204  | 185,057  | 203,594  | 223,978  | 246,448  |
+| **Fixed Expenses**        |          |          |          |          |          |          |          |          |          |          |          |          |
+| Factory Rent              | 60,000   | 60,000   | 60,000   | 60,000   | 60,000   | 60,000   | 60,000   | 60,000   | 60,000   | 60,000   | 60,000   | 60,000   |
+| Administration Cost       | 35,000   | 35,000   | 35,000   | 35,000   | 35,000   | 35,000   | 35,000   | 35,000   | 35,000   | 35,000   | 35,000   | 35,000   |
+| Marketing Cost            | 50,000   | 50,000   | 50,000   | 55,000   | 60,500   | 66,550   | 73,205   | 80,526   | 88,578   | 97,436   | 107,179  | 117,897  |
+| **Total Fixed Expenses**  | 145,000  | 145,000  | 145,000  | 150,000  | 155,500  | 161,550  | 168,205  | 175,526  | 183,578  | 192,436  | 202,179  | 212,897  |
+| **Profits**               | -40,675  | -40,675  | -40,675  | -35,243  | -29,267  | -22,637  | -15,329  | -7,322   | 1,478    | 11,158   | 21,798   | 33,550   |
 
+#### **Negative Profits (January to August):**
+- From January to August, the profits remain negative, reflecting that the business's Contribution was insufficient to cover the Fixed Expenses (Factory Rent, Administration Costs, and Marketing Costs).
+- This indicates that the business had not yet reached its break-even point — the point where Total Contribution = Total Fixed Expenses, and profits become zero.
 
+#### Transition to Positive Profits (September Onwards):
+- From September onwards, profits turn positive, showing that the business has successfully surpassed its break-even point.
+- This change implies that the cumulative increase in contribution margin from growing revenue has finally covered all fixed costs, and the business is now generating surplus profits.
+
+#### Break-Even Analysis
+- The negative profits until August indicate that the business was operating below the break-even point.
+- The positive profits from September onwards signify that the business has crossed the break-even threshold, and every additional contribution is directly adding to profits.
+
+The primary driver of achieving the break-even point here is the incremental increase in contribution margin due to increased sales revenue over the months.
+
+## 📊Visualizing Break-Even Analysis
+![image](https://github.com/user-attachments/assets/c838589f-2803-4021-bf98-c75b4cf30783)
+
+![image](https://github.com/user-attachments/assets/ab18798e-d7f5-41a3-8176-082ab034be01)
+
+## 🔚Insights
+- **Sales:** Sales and increasing from 4th month onwards which is resulting in increased total contribution per month from the newly launched product Mini Pack.
+- **Break-Even  Point:**  Company will be able to achieve the break-even point in the month of September and then profits will continue to rise till the month of December as per data provided for forcast.
